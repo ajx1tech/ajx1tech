@@ -6,7 +6,7 @@ I'm an engineering student focused on the intersection of system architecture, c
  🌐 connect
 - **linkedin:** [profile_link](https://www.linkedin.com/in/ajit-sharma-94a578277)
 - **x / twitter:** [@handle](https://x.com/Mr_ajitsharma74)
-- **discord:** `ajx07`
+- **discord:** `https://discord.com/channels/@me`
 - **portfolio:**
 
   <img width="1030" height="563" alt="image" src="https://github.com/user-attachments/assets/7f6beaa0-3d4a-48e3-9d78-ac629da73106" />
